@@ -1,0 +1,33 @@
+#main {
+	background-color: none;
+	border: solid black 5px;
+	width: 600px;
+    height: 600px;
+    margin-left: 40px;
+    margin-top: 40px;
+    border: 30px;
+
+    font-size: 75px;
+    text-align: center;
+    font-family: fantasy;
+    color: #795548;
+}
+
+.box {
+	border: solid black 3px;
+	display: inline-block;
+	vertical-align: top;
+	background-color: #af38aa;
+	height: 170px;
+	width: 170px;
+	margin-top: 25px;
+}
+
+.nought {
+	background-color: #00BCD4;
+}
+
+
+.cross {
+	background-color: #d88300;
+}
